@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Push-ups",
+    "description": "Place your hands shoulder-width apart on the floor. Lower your body until your chest nearly touches the floor. Push your body back up until your arms are fully extended.",
+    "durationInSeconds": 30,
+    "gifImageUrl": "https://media.tenor.com/gI-8qCUEko8AAAAC/pushup.gif"
+  },
+  {
+    "name": "Squats",
+    "description": "Stand with your feet shoulder-width apart. Lower your body as far as you can by pushing your hips back and bending your knees. Return to the starting position.",
+    "durationInSeconds": 45,
+    "gifImageUrl": "https://thumbs.gfycat.com/HeftyPartialGroundbeetle-size_restricted.gif"
+  },
+  {
+    "name": "Plank",
+    "description": "Start in a push-up position, then bend your elbows and rest your weight on your forearms. Hold this position for as long as you can.",
+    "durationInSeconds": 60,
+    "gifImageUrl": "https://media.tenor.com/6SOetkNbfakAAAAM/plank-abs.gif"
+  }
+]
