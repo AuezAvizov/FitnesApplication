@@ -1,23 +1,34 @@
----
+# 🏋️‍♂️ Fitness Tracker (Android App)
 
-# Fitness Application
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed_Pet_Project-success?style=flat-square)
 
-This fitness application was developed as a small pet project to encourage users to maintain a healthy lifestyle and achieve their fitness goals.
-
-## Features
-
-- **User Profiles**: Users can create and manage their profiles, including personal fitness goals and preferences.
-
-- **Workout Tracking**: The app allows users to log workouts, track progress, and set reminders for future sessions.
-
-- **Exercise Database**: A comprehensive database of exercises is available, with descriptions, images, and video demonstrations to guide users.
-
-- **Nutrition Tracking**: Users can track their food intake and receive recommendations for a balanced diet based on their fitness goals.
-
-- **Progress Visualization**: The app provides visual charts and statistics to help users monitor their progress over time.
-
-## Purpose
-
-This fitness application aims to motivate users to stay active and informed about their fitness journey. By offering essential tools for tracking workouts and nutrition, the app serves as a personal fitness companion to help users achieve their health goals.
+**Fitness Tracker** — это нативное Android-приложение, разработанное как pet-проект для углубленного изучения Android SDK и принципов создания мобильных интерфейсов. Приложение предоставляет пользователям набор базовых инструментов для контроля за физической активностью и питанием.
 
 ---
+
+##  Ключевой функционал
+
+*  **Профили пользователей:** Создание персонального профиля с указанием фитнес-целей (похудение, набор массы, поддержание формы).
+*  **Дневник тренировок:** Логирование выполненных упражнений, отслеживание подходов, весов и настройка напоминаний.
+*  **База упражнений:** Встроенный справочник с описаниями техники выполнения упражнений для различных групп мышц.
+*  **Контроль питания (Nutrition Tracking):** Базовый учет потребляемых калорий и рекомендации по поддержанию сбалансированной диеты.
+*  **Аналитика прогресса:** Визуализация достижений с помощью графиков и статистики тренировок.
+
+---
+
+## Технологический стек
+
+* **Язык разработки:** Java
+* **Среда:** Android Studio
+* **UI/Разметка:** XML (Custom layouts)
+* **Архитектура:** Нативные компоненты Android (Activities, Fragments, Intents)
+
+---
+
+##  Установка и запуск
+
+1. Склонируйте репозиторий:
+   ```bash
+   git clone [https://github.com/AuezAvizov/fitness-tracker-android.git](https://github.com/AuezAvizov/fitness-tracker-android.git)
